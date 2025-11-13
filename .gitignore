@@ -1,1 +1,5 @@
 .env
+Data/*.db
+Data/first_run_sqlite.py
+FirstRun.log
+Data/first_run_sample.json
