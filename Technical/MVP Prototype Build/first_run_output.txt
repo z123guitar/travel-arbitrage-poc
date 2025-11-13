@@ -1,0 +1,3 @@
+First-Run complete.
+Artifact: Data/first_run_sample.json
+SQLite write/read ✅ { ok: true, db_path: 'Data/first_run.db', rows: 1 }
