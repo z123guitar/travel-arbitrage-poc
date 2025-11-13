@@ -19,5 +19,12 @@
     "db_path": "Data/first_run.db",
     "rows": 1
   },
-  "out_path": "Data/first_run_sample.json"
+  "out_path": "Data/first_run_sample.json",
+  "environment": {
+    "runtime": "local"
+  },
+  "artifacts": {
+    "db": "Data/first_run.db",
+    "log": "Technical/MVP Prototype Build/first_run_output.txt"
+  }
 }
