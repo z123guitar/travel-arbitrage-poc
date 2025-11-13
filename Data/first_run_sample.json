@@ -1,0 +1,23 @@
+{
+  "timestamp": "2025-11-12T19:25:26.946Z",
+  "node": "v21.6.1",
+  "npm": "10.2.4",
+  "cwd": "/Users/zanesnider/travel-arbitrage-poc",
+  "env_present": {
+    "SUPABASE_URL": true,
+    "SUPABASE_ANON_KEY": true,
+    "SUPABASE_SERVICE_ROLE": true,
+    "AMADEUS_CLIENT_ID": true,
+    "AMADEUS_CLIENT_SECRET": true,
+    "ROME2RIO_API_KEY": true,
+    "SKYSCANNER_API_KEY": true,
+    "FLIXBUS_API_KEY": true,
+    "UBER_SERVER_TOKEN": true
+  },
+  "db": {
+    "ok": true,
+    "db_path": "Data/first_run.db",
+    "rows": 1
+  },
+  "out_path": "Data/first_run_sample.json"
+}
