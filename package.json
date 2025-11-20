@@ -1,0 +1,11 @@
+{
+  "name": "travel-arbitrage-poc",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "migrate": "node src/db/migrate.js"
+  },
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
